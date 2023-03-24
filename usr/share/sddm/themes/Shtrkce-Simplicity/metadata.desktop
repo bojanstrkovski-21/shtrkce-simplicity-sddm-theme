@@ -2,9 +2,9 @@
 Name=Shtrkce-Simplicity
 Description=Simple SDDM theme
 Type=sddm-theme
-Author=Gabriel Ibáñez
+Author=Bojan Shtrkovski
 Copyright=(c) 2019, Gabriel Ibáñez
-Screenshot=screenshot.jpg
+Screenshot=screenshot1.jpg
 License=GPL
 Version=1.0
 MainScript=Main.qml
@@ -12,5 +12,5 @@ ConfigFile=theme.conf
 TranslationsDirectory=translations
 Theme-Id=Shtrkce-Simplicity
 Theme-API=2.0
-Website=https://gitlab.com/isseigx/simplicity-sddm-theme
+Website=https://github.com/bojanstrkovski-21/shtrkce-simplicity-sddm-theme
 
